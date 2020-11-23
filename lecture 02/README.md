@@ -3,7 +3,7 @@ This is Brati Pradhan's personal portfolio.
 \***\* QUALITIES \*\***
 I like to bath with cold water during winters.
 
- <!-- As Tanay Pratap once said, introduce yourself a bit differently, so that everyone remembers you. -->
+// As Tanay Pratap once said, introduce yourself a bit differently, so that everyone remembers you.
 
 Enthusiast workaholic.
 Like to watch sunrise almost every single day.
