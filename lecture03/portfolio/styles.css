@@ -49,6 +49,11 @@ hr {
     border: 1px solid var(--primary-color);
 }
 
+.link-section {
+    color: var(--primary-color);
+    text-align: right;
+}
+
 /** lists **/
 
 .list-non-bullet {
@@ -117,6 +122,16 @@ hr {
 
 .section h1 {
     text-align: center;
+}
+
+.section .section-img {
+    border-radius: 50%;
+    width: 80px;
+    border: 1px solid var(--dark-gray);
+    display: inline;
+    float: left;
+    margin-bottom: 4rem;
+    margin-right: 1rem;
 }
 
 .ow {
