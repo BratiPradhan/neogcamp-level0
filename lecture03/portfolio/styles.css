@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;700&display=swap');
+
 :root {
     --primary-color: #F43F5E;
     --off-white: #F3F4F6;
@@ -138,6 +140,18 @@ hr {
     background-color: var(--off-white);
 }
 
+
+
+/** article **/
+.article-serif {
+    font-family: 'Vollkorn SC', serif;
+    text-align: center;
+}
+
+.article-sans-serif {
+    text-align: center;
+}
+
 /** footer **/
 
 .footer {
@@ -146,6 +160,10 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+}
+
+.footer-blogs {
+    border-radius: 1rem;
 }
 
 .footer .link {
@@ -165,9 +183,10 @@ hr {
     margin-top: 2rem;
 }
 
-/* .footer .footer-img {
+.footer .footer-img {
     border-radius: 50%;
     margin: 1rem;
     width: 100px;
     border: 1px solid var(--off-white);
-} */
+    box-shadow: 0px 3px 3px var(--dark-gray);
+}
