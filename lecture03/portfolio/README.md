@@ -2,7 +2,7 @@
 
 ### WEBSITE LINK -
 
-<!-- link -->
+https://morningbratidev.netlify.app/
 
 ## ABOUT THE APP: -
 
