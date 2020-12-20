@@ -19,7 +19,7 @@ This page tells you more about who I'm and what my interests are.
 #### PROJECTS:
 This page has six projects listed, which I created in **neogcamp-level0**
 
-TECHNOLOGY USED - HTML5, CSS3, VANILLAJS, NODEJS, REACTJS
+TECHNOLOGY USED TO CREATE THE PROJECTS - HTML5, CSS3, VANILLAJS, NODEJS, REACTJS
 
 #### BLOGS:
 This page contains, two blog links which I created.
